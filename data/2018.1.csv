@@ -1,0 +1,688 @@
+1.0.-Etxebizitzen salerosketa kopurua. 2018ko 1. hiruhilekoa;;;;;;;
+1.0.- Número de compraventas de vivienda. 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;OROKORRA GENERAL;BERRIA NUEVA;ERABILIA USADA;;;
+Nazionala/Nacional;ESPAÑA;128.990,00;22.299,00;106.691,00;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;5.305,00;1.119,00;4.186,00;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;24.208,00;4.199,00;20.009,00;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;3.375,00;575,00;2.800,00;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;2.395,00;617,00;1.778,00;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;4.199,00;763,00;3.436,00;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;6.440,00;1.296,00;5.144,00;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;1.721,00;280,00;1.441,00;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;5.136,00;1.036,00;4.100,00;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;4.763,00;894,00;3.869,00;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;20.756,00;3.185,00;17.571,00;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;1.621,00;139,00;1.482,00;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;3.946,00;853,00;3.093,00;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;18.855,00;3.895,00;14.960,00;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;4.124,00;645,00;3.479,00;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;1.422,00;282,00;1.140,00;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;848,00;149,00;699,00;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;19.876,00;2.372,00;17.504,00;;;
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;758,00;229,00;529,00;;;
+Hiriburak/Capitales de TTHH;Donostia-San Sebastián;540,00;87,00;453,00;;;
+Hiriburak/Capitales de TTHH;Bilbao;827,00;46,00;781,00;;;
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;153,00;25,00;128,00;;;
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;1.075,00;269,00;806,00;;;
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;1.722,00;401,00;1.321,00;;;
+Eskualde Egitura/Áreas funcionales;Álava Central;824,00;240,00;584,00;;;
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;34,00;2,00;32,00;;;
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;117,00;31,00;86,00;;;
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;2.215,00;356,00;1.859,00;;;
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;1.040,00;207,00;833,00;;;
+Eskualde Egitura/Áreas funcionales;Durango;148,00;53,00;95,00;;;
+Eskualde Egitura/Áreas funcionales;Eibar;201,00;54,00;147,00;;;
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;69,00;9,00;60,00;;;
+Eskualde Egitura/Áreas funcionales;Igorre;22,00;9,00;13,00;;;
+Eskualde Egitura/Áreas funcionales;Laguardia;27,00;14,00;13,00;;;
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;64,00;1,00;63,00;;;
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;77,00;34,00;43,00;;;
+Eskualde Egitura/Áreas funcionales;Mungia;30,00;10,00;20,00;;;
+Eskualde Egitura/Áreas funcionales;Tolosa;76,00;1,00;75,00;;;
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;131,00;36,00;95,00;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 01;57,00;5,00;52,00;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 02;62,00;5,00;57,00;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 03;168,00;19,00;149,00;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 04;142,00;9,00;133,00;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 05;78,00;3,00;75,00;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 06;241,00;187,00;54,00;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 01;18,00;n.d.;n.d.;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 02;73,00;2,00;71,00;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 03;124,00;27,00;97,00;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 04;138,00;37,00;101,00;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 05;63,00;5,00;58,00;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 06;116,00;15,00;101,00;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 01;119,00;1,00;118,00;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 02;104,00;2,00;102,00;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 03;48,00;n.d.;n.d.;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 04;102,00;n.d.;n.d.;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 05;156,00;6,00;150,00;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 06;129,00;25,00;104,00;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 07;119,00;3,00;116,00;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 08;45,00;9,00;36,00;;;
+;;;;;;;
+;;;;;;;
+1.1.1.-  Etxebizitzen batez besteko prezioa (€/m2). 2018ko 1. hiruhilekoa;;;;;;;
+1.1.1.- Precio medio de vivienda (€/m2). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                          ÁMBITO;OROKORRA GENERAL;BERRIA     NUEVA;ERABILIA USADA;;;
+Nazionala/Nacional;ESPAÑA;1.634,58;1.727,24;1.615,71;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;2.457,81;2.668,38;2.413,51;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;1.314,40;1.338,11;1.309,44;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;1.250,81;1.629,21;1.171,05;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;1.224,83;1.443,71;1.152,69;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;2.332,01;2.361,32;2.325,41;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;1.701,85;1.790,58;1.679,66;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;1.462,43;1.477,15;1.459,52;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;1.021,41;1.134,48;994,54;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;761,47;865,57;739,21;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;1.995,03;2.097,17;1.976,93;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;678,07;844,74;662,42;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;1.224,64;1.244,96;1.219,08;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;2.514,16;2.259,28;2.577,94;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;967,27;1.007,83;959,55;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;1.508,16;1.687,21;1.465,97;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;1.037,56;1.174,94;1.006,79;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;1.225,64;1.568,71;1.178,77;;;
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;1.749,05;1.802,84;1.744,87;;;
+Hiriburak/Capitales de TTHH;Donostia-San Sebastián;4.293,13;4.393,75;4.274,30;;;
+Hiriburak/Capitales de TTHH;Bilbao;2.383,15;3.302,17;2.332,60;;;
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;1.437,73;903,72;1.562,33;;;
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;2.303,54;2.500,13;2.234,58;;;
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;2.341,83;2.552,47;2.284,66;;;
+Eskualde Egitura/Áreas funcionales;Álava Central;1.702,72;1.588,69;1.713,62;;;
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;1.290,41; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;2.001,63;2.089,15;1.965,88;;;
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;2.415,72;2.809,37;2.349,92;;;
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;3.322,23;3.268,12;3.335,82;;;
+Eskualde Egitura/Áreas funcionales;Durango;2.015,64;2.019,86;2.013,07;;;
+Eskualde Egitura/Áreas funcionales;Eibar;1.921,83;2.062,28;1.858,82;;;
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;2.047,79; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Igorre;1.834,91; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laguardia;793,96; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;1.932,11; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;2.042,36;2.380,27;1.793,90;;;
+Eskualde Egitura/Áreas funcionales;Mungia;2.119,76; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Tolosa;1.991,07; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;2.955,31;3.257,13;2.834,58;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 01;1.314,40; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 02;2.288,27; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 03;1.820,39;2.079,36;1.793,02;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 04;1.439,47; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 05;1.906,00; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Vitoria-Gasteiz zona 06;1.563,79; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 01;5.278,59; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 02;5.102,40; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 03;3.955,68; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 04;5.094,26;4.813,81;5.212,17;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 05;4.352,18; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Donostia-San Sebastián zona 06;2.790,92;2.693,48;2.806,56;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 01;2.795,97; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 02;2.059,49; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 03;1.754,92; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 04;2.335,67; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 05;1.888,89; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 06;3.566,43;4.106,03;3.447,84;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 07;2.153,49; n.d. ; n.d. ;;;
+Hiriburuetako zonak/Zonas de capitales;Bilbao zona 08;1.895,75; n.d. ; n.d. ;;;
+;;;;;;;
+;;;;;;;
+1.1.2.- Batez besteko prezioa azaleraren arabera (€/m2). 2018ko 1. hiruhilekoa;;;;;;;
+1.1.2.- Precio medio por superficie (€/m2). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;< 40 m²;40 m² - 60 m²; 60 m² - 80 m²;> 80 m²;;
+Nazionala/Nacional;ESPAÑA;2.475,12;1.788,87;1.589,76;1.597,95;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;3.340,52;2.427,19;2.323,21;2.366,89;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;1.941,93;1.389,91;1.218,66;1.334,36;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;1.624,87;1.215,93;1.246,10;1.371,23;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;1.224,56;1.161,43;1.235,85;1.292,91;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;2.864,52;2.498,88;2.267,07;2.198,35;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;2.102,01;1.883,03;1.541,93;1.428,47;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;1.831,92;1.567,96;1.425,55;1.513,59;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;1.250,68;1.046,25;1.072,63;1.083,26;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;1.135,23;825,32;849,80;833,82;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;2.658,86;2.097,91;1.983,13;2.120,42;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;623,39;751,35;803,43;760,07;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;1.868,98;1.312,09;1.245,88;1.216,86;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;3.967,37;2.445,71;2.235,29;2.566,48;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;1.467,96;1.157,94;984,65;886,18;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;1.268,89;1.590,90;1.544,72;1.591,57;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA; n.d. ;944,52;1.018,07;1.084,96;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;1.594,25;1.252,33;1.150,41;1.102,12;;
+;;;;;;;
+;;;;;;;
+1.1.3.- Batez besteko prezioa tipologiaren arabera (€/m2). 2018ko 1. hiruhilekoa;;;;;;;
+1.1.3.- Precio medio por tipología (€/m2). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;PISUAK PISOS;ETXE ATXIKIAK ADOSADOS;FAMILIABAKARRA UNIFAMILIARES;;;
+Nazionala/Nacional;ESPAÑA;1.701,92;1.347,74;1.299,77;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;2.435,78;3.076,34;2.929,64;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;1.367,64;1.100,73;1.083,10;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;1.310,93;1.229,30;678,21;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;1.259,03;1.100,66;956,39;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;2.318,45;1.923,81;2.663,80;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;1.068,79;930,75;685,23;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;762,98;609,52;412,32;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;1.276,68;1.182,09;852,20;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;1.087,77;895,32;612,21;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;823,20;688,16;594,52;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;1.684,29;2.113,54;1.503,68;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;1.496,21;1.244,88;1.336,94;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;2.073,75;1.567,16;1.696,29;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;2.579,27;1.772,27;2.531,31;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;984,66;1.090,01;625,58;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;1.597,46;1.144,94;1.130,72;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;1.208,30;1.391,71;1.198,15;;;
+;;;;;;;
+;;;;;;;
+1.2.- Hiri-lurzoruaren batez besteko prezioa (€/m2). 2018ko 1. hiruhilekoa;;;;;;;
+1.2.- Precio medio suelo urbano (€/m2). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;Batez bestekoa Valor Medio;;;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;370,10;;;;;
+Lurraldea/TTHH;ARABA/ÁLAVA;199,32;;;;;
+Lurraldea/TTHH;GIPUZKOA;633,99;;;;;
+Lurraldea/TTHH;BIZKAIA;326,22;;;;;
+;;;;;;;
+;;;;;;;
+1.3.-Errentagarritasun-adierazleak eta prezio-aldakuntza (%). 2018ko 1. hiruhilekoa;;;;;;;
+1.3.- Indicadores de rentabilidad y variación de precios (%). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;ETXEBIZITZAREN PREZIOA PRECIO VIVIENDA;KPI         IPC;SOLDATEN KOSTUA COSTE SALARIAL;IBEX 35;5 URTETARAKO ZORRA DEUDA 5 AÑOS;10 URTETARAKO ZORRA DEUDA 10 AÑOS
+Nazionala/Nacional;ESPAÑA;4,78;1,20;0,10;-8,24;0,35;1,39
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;2,66;1,20;0,20;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;3,33;1,10;-0,20;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;-1,15;1,10;0,40;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;1,06;0,90;-0,30;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;7,18;1,10;0,70;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;6,06;1,20;-0,30;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;2,03;1,20;0,00;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;0,65;1,00;-0,10;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;0,81;1,10;0,60;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;6,04;1,50;0,00;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;0,76;1,00;-0,20;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;2,38;1,10;1,00;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;8,09;1,40;0,00;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;-0,83;0,90;-0,40;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;9,54;1,00;1,00;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;8,69;1,00;-0,10;-8,24;0,35;1,39
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;3,15;1,30;0,70;-8,24;0,35;1,39
+;;;;;;;
+;;;;;;;
+1.4.- Atzerritarren salerosketak. 2018ko 1. hiruhilekoa;;;;;;;
+1.4.- Compraventas de extranjeros. 01 trimestre 2018;;;;;;;
+;;;;;;;
+EREMUA                                                    ÁMBITO;NAZIONALITATEA NACIONALIDAD;GUZTIRA NUMERO TOTAL;Guztiaren% %Total;Atzerritaren% % Extranjeros;;;
+ESPAÑA;España;112.654,00;0,87;-;;;
+ESPAÑA;Reino Unido;2.466,00;0,02;0,15;;;
+ESPAÑA;Alemania;1.324,00;0,01;0,08;;;
+ESPAÑA;Francia;1.276,00;0,01;0,08;;;
+ESPAÑA;Belgica;1.166,00;0,01;0,07;;;
+ESPAÑA;Suecia;1.118,00;0,01;0,07;;;
+ESPAÑA;Italia;962,00;0,01;0,06;;;
+ESPAÑA;Rumania;905,00;0,01;0,05;;;
+ESPAÑA;Marruecos;772,00;0,01;0,05;;;
+ESPAÑA;China;650,00;0,01;0,04;;;
+ESPAÑA;Rusia;512,00;0,00;0,03;;;
+ESPAÑA;Holanda;432,00;0,00;0,03;;;
+ESPAÑA;Noruega;341,00;0,00;0,02;;;
+ESPAÑA;Ucrania;282,00;0,00;0,02;;;
+ESPAÑA;Polonia;229,00;0,00;0,01;;;
+ESPAÑA;Bulgaria;216,00;0,00;0,01;;;
+ESPAÑA;Argelia;216,00;0,00;0,01;;;
+ESPAÑA;Irlanda;189,00;0,00;0,01;;;
+ESPAÑA;Suiza;161,00;0,00;0,01;;;
+ESPAÑA;Dinamarca;161,00;0,00;0,01;;;
+ESPAÑA;Finlandia;149,00;0,00;0,01;;;
+ESPAÑA;Gainerakoa/Resto;3.335,00;0,03;0,20;;;
+;;;;;;;
+;;;;;;;
+1.4.- Atzerritarren salerosketak. 2018ko 1. hiruhilekoa;;;;;;;
+1.4.- Compraventas de extranjeros. 01 trimestre 2018;;;;;;;
+;;;;;;;
+EREMUA                                                    ÁMBITO;NAZIONALITATEA NACIONALIDAD;GUZTIRA EAE NUMERO CAE;Guztiaren% %Total;Atzerritaren% % Extranjeros;;;
+EUSKADI/PAÍS VASCO;España;5.202,00;0,98;-;;;
+EUSKADI/PAÍS VASCO;Rumania;15,00;0,00;0,15;;;
+EUSKADI/PAÍS VASCO;China;12,00;0,00;0,12;;;
+EUSKADI/PAÍS VASCO;Marruecos;7,00;0,00;0,07;;;
+EUSKADI/PAÍS VASCO;Portugal;6,00;0,00;0,06;;;
+EUSKADI/PAÍS VASCO;Estados Unidos;4,00;0,00;0,04;;;
+EUSKADI/PAÍS VASCO;Ucrania;4,00;0,00;0,04;;;
+EUSKADI/PAÍS VASCO;Colombia;3,00;0,00;0,03;;;
+EUSKADI/PAÍS VASCO;Italia;3,00;0,00;0,03;;;
+EUSKADI/PAÍS VASCO;Belgica;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Bolivia;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Alemania;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Republica Dominicana;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Reino Unido;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Francia;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Paraguay;2,00;0,00;0,02;;;
+EUSKADI/PAÍS VASCO;Rusia;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Qatar;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Polonia;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Peru;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Noruega;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Nicaragua;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Nepal;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Mexico;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Japon;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Chile;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Argentina;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Moldavia;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Uzbekistan;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Venezuela;1,00;0,00;0,01;;;
+EUSKADI/PAÍS VASCO;Gainerakoa/Resto;18,00;0,00;0,18;;;
+;;;;;;;
+;;;;;;;
+1.5.-Etxebizitzen jabetzaren batez besteko aldia (egunak/%). 2018ko 1. hiruhilekoa;;;;;;;
+1.5.- Periodo medio de posesión de las viviendas (días/%). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;BATEZBESTEKOA MEDIA;< 2 urte             < 2 años;2 - 5 urte       2 - 5 años;5 - 10 urte       5 - 10 años;>10 urte          >10 años;
+Nazionala/Nacional;ESPAÑA;5.313,00;8,74;9,37;14,75;67,14;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;6.879,00;3,74;6,12;15,09;75,05;
+;;;;;;;
+;;;;;;;
+2.1.-Salerosketa-banaketa (%). 2018ko 1. hiruhilekoa;;;;;;;
+2.1.- Distribución de compraventas (%). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;LIBRE BERRIA NUEVA LIBRE;BERRIA BABESTUA NUEVA VPO;LIBRE ERABILIA USADA LIBRE;ERABILIA BABESTUA USADA VPO;;
+Nazionala/Nacional;ESPAÑA;15,39;1,89;75,42;7,30;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;15,66;5,43;73,50;5,41;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;15,64;1,71;74,83;7,82;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;15,50;1,54;71,49;11,47;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;20,38;5,39;62,18;12,05;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;17,98;0,19;79,68;2,15;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;19,16;0,96;76,74;3,14;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;15,34;0,93;77,48;6,25;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;16,63;3,54;69,91;9,92;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;16,31;2,46;76,73;4,50;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;13,55;1,80;76,40;8,25;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;6,91;1,67;73,17;18,25;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;20,68;0,94;74,55;3,83;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;18,51;2,15;74,13;5,21;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;14,62;1,02;76,85;7,51;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;16,24;3,59;69,22;10,95;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;16,51;1,06;73,62;8,81;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;10,78;1,16;79,27;8,79;;
+Capitales de TTHH;Vitoria-Gasteiz;4,55;27,61;56,83;11,01;;
+Capitales de TTHH;Donostia/San Sebastián;15,55;0,00;83,52;0,93;;
+Capitales de TTHH;Bilbao;5,08;0,00;92,44;2,48;;
+Resto de TTHH;Resto ARABA/ÁLAVA;16,54;0,00;71,65;11,81;;
+Resto de TTHH;Resto GIPUZKOA;24,16;0,79;68,22;6,83;;
+Resto de TTHH;Resto BIZKAIA;19,65;3,65;72,44;4,26;;
+Áreas funcionales;Álava Central;5,71;25,54;58,42;10,33;;
+Áreas funcionales;Balmaseda-Zalla;3,23;0,00;87,09;9,68;;
+Áreas funcionales;Beasain-Zumárraga;26,85;0,00;65,74;7,41;;
+Áreas funcionales;Bilbao Metropolitano;13,55;2,56;81,14;2,75;;
+Áreas funcionales;Donostia-San Sebastián;19,73;0,00;77,69;2,58;;
+Áreas funcionales;Durango;34,03;0,69;55,56;9,72;;
+Áreas funcionales;Eibar;24,37;2,54;54,31;18,78;;
+Áreas funcionales;Gernika-Markina;8,06;3,23;82,26;6,45;;
+Áreas funcionales;Igorre;40,91;0,00;50,00;9,09;;
+Áreas funcionales;Laguardia;55,00;0,00;45,00;0,00;;
+Áreas funcionales;Laudio / Llodio;0,00;0,00;74,55;25,45;;
+Áreas funcionales;Arrasate-Bergara;35,21;7,04;47,89;9,86;;
+Áreas funcionales;Mungia;29,17;4,17;45,83;20,83;;
+Áreas funcionales;Tolosa;1,39;0,00;97,22;1,39;;
+Áreas funcionales;Zarautz-Azpeitia;28,57;0,00;71,43;0,00;;
+;;;;;;;
+;;;;;;;
+3.1.1.- Hipoteka-kreditu berriko banaketa(%).  2018ko 1. hiruhilekoa;;;;;;;
+3.1.1.- Distribución del volumen de nuevo crédito hipotecario(%).  01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;BANKUAK/KUTXAK BANCOS/CAJAS;BESTELAKOAK OTRAS;;;;
+Nazionala/Nacional;ESPAÑA;91,46;8,54;;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;78,16;21,84;;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;91,18;8,82;;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;89,89;10,11;;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;75,28;24,72;;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;92,07;7,93;;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;90,61;9,39;;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;94,74;5,26;;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;86,04;13,96;;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;86,30;13,70;;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;93,28;6,72;;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;94,25;5,75;;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;94,44;5,56;;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;97,21;2,79;;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;84,92;15,08;;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;65,67;34,33;;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;86,79;13,21;;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;91,20;8,80;;;;
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;78,65;21,35;;;;
+Hiriburak/Capitales de TTHH;Donostia/San Sebastián;81,21;18,79;;;;
+Hiriburak/Capitales de TTHH;Bilbao;78,12;21,88;;;;
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;89,52;10,48;;;;
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;69,74;30,26;;;;
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;81,64;18,36;;;;
+Eskualde Egitura/Áreas funcionales;Álava Central;79,45;20,55;;;;
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;96,82;3,18;;;;
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;72,74;27,26;;;;
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;80,72;19,28;;;;
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;79,61;20,39;;;;
+Eskualde Egitura/Áreas funcionales;Durango;70,91;29,09;;;;
+Eskualde Egitura/Áreas funcionales;Eibar;71,99;28,01;;;;
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;72,29;27,71;;;;
+Eskualde Egitura/Áreas funcionales;Igorre;83,19;16,81;;;;
+Eskualde Egitura/Áreas funcionales;Laguardia;100,00;0,00;;;;
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;86,00;14,00;;;;
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;35,12;64,88;;;;
+Eskualde Egitura/Áreas funcionales;Mungia;100,00;0,00;;;;
+Eskualde Egitura/Áreas funcionales;Tolosa;93,46;6,54;;;;
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;40,17;59,83;;;;
+;;;;;;;
+;;;;;;;
+3.1.2.- Hipoteka-kreditu berriko banaketa(%). Higiezin mota. 2018ko 1. hiruhilekoa;;;;;;;
+3.1.2.- Distribución del volumen de nuevo crédito hipotecario (%). Tipo bien inmueble. 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;ETXEBIZITZAK VIVIENDAS;LOKALAK    LOCALES;GARAJEAK/TRASTEROAK GARAJE/TRASTEROS;ORUBEAK SOLARES;NABEAK   NAVES;LARREKOAK RUSTICOS
+Nazionala/Nacional;ESPAÑA;83,14;5,14;1,12;6,63;3,39;0,58
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;76,42;7,16;1,14;12,78;1,93;0,57
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;85,71;3,64;1,14;6,61;2,37;0,53
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;80,80;3,03;1,22;7,52;7,22;0,21
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;84,97;6,68;1,71;2,69;1,07;2,88
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;85,54;3,41;0,64;7,25;1,42;1,74
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;79,36;7,60;0,98;3,87;6,43;1,76
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;76,27;3,55;1,23;16,59;2,09;0,27
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;81,97;5,83;1,37;4,18;6,43;0,22
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;84,99;3,73;0,80;6,50;3,86;0,12
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;85,81;5,16;0,99;2,55;5,33;0,16
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;67,74;7,81;0,68;7,58;15,52;0,67
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;83,29;7,08;3,52;0,96;2,56;2,59
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;83,45;5,70;0,97;8,43;1,44;0,01
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;80,48;4,55;1,16;1,06;8,08;4,67
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;77,87;6,31;0,46;9,90;5,11;0,35
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;69,63;3,18;1,13;24,62;1,44;0,00
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;82,49;4,66;1,18;7,51;3,37;0,79
+Lurraldea/TTHH;ARABA/ÁLAVA;77,73;6,25;0,43;14,54;1,05;0,00
+Lurraldea/TTHH;GIPUZKOA;72,80;5,86;1,46;16,56;2,38;0,94
+Lurraldea/TTHH;BIZKAIA;78,68;8,27;1,08;9,72;1,82;0,43
+;;;;;;;
+;;;;;;;
+3.1.3.- Hipoteka-kreditu berriko banaketa (%). Babesaren gradua.  2018ko 1. hiruhilekoa;;;;;;;
+3.1.3.- Distribución del volumen de nuevo crédito hipotecario (%). Grado protección. 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;ETXEBIZITZA LIBREA VIVIENDA LIBRE;ETXEBIZITZA BABESTUA VIVIENDA PROTEGIDA;LIBRE BANKUAK/KUTXAK LIBRE BANCOS/CAJAS;LIBRE BESTEAK LIBRE OTRAS;BABESTUAK BANKUAK/KUTXAK VPO BANCOS/CAJAS;BABESTUAK BESTEAK VPO OTRAS
+Nazionala/Nacional;ESPAÑA;91,35;8,65;91,79;8,21;90,84;9,16
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;90,65;9,35;82,38;17,62;76,01;23,99
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;90,78;9,22;91,20;8,80;91,94;8,06
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;83,40;16,60;88,85;11,15;89,03;10,97
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;79,29;20,71;74,28;25,72;68,40;31,60
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;98,05;1,95;93,31;6,69;93,37;6,63
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;94,52;5,48;89,84;10,16;95,31;4,69
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;91,68;8,32;93,82;6,18;98,35;1,65
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;89,30;10,70;88,38;11,62;88,99;11,01
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;92,60;7,40;86,64;13,36;85,41;14,59
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;90,58;9,42;92,93;7,07;97,19;2,81
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;78,34;21,66;92,36;7,64;93,17;6,83
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;95,77;4,23;96,83;3,17;87,58;12,42
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;93,05;6,95;97,21;2,79;96,97;3,03
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;88,00;12,00;87,73;12,27;83,36;16,64
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;86,97;13,03;64,60;35,40;52,75;47,25
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;90,08;9,92;84,67;15,33;88,43;11,57
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;91,03;8,97;90,71;9,29;91,52;8,48
+Lurraldea/TTHH;ARABA/ÁLAVA;81,80;18,20;80,64;19,36;77,04;22,96
+Lurraldea/TTHH;GIPUZKOA;92,46;7,54;75,69;24,31;66,62;33,38
+Lurraldea/TTHH;BIZKAIA;91,45;8,55;87,12;12,88;80,89;19,11
+;;;;;;;
+;;;;;;;
+3.2.1.- Kontratatutako hipoteka-kredituko batez bestekoa m koadroka (€). 2018ko 1. hiruhilekoa;;;;;;;
+3.2.1.- Importe medio de crédito hipotecario contratado por m²(€). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;BATEZBESTEKOA MEDIA;BANKUAK/KUTXAK BANCOS;BESTELAKOAK OTRAS;;;
+Nazionala/Nacional;ESPAÑA;1.239,10;1.251,63;1.099,20;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;1.695,18;1.702,37;1.662,22;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;991,59;998,85;906,20;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;987,25;1.008,94;838,15;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;1.003,80;1.003,98;1.003,35;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;1.548,08;1.545,70;1.662,49;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;1.066,61;1.069,95;1.006,24;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;1.129,45;1.122,24;1.277,09;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;855,65;864,71;791,98;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;695,11;689,44;728,12;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;1.555,98;1.566,76;1.393,24;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;674,55;669,38;750,05;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;997,67;1.005,82;805,25;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;1.793,89;1.790,43;1.910,22;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;750,71;754,34;721,73;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;1.107,58;1.125,50;1.071,16;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;811,39;802,01;874,66;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;869,75;874,79;808,46;;;
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;1.290,66;1.294,01;1.278,58;;;
+Hiriburak/Capitales de TTHH;Donostia-San Sebastián;2.640,10;2.636,81;2.655,30;;;
+Hiriburak/Capitales de TTHH;Bilbao;1.671,58;1.665,13;1.713,39;;;
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;1.139,79;1.166,90;1.007,64;;;
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;1.652,89;1.648,63;1.665,24;;;
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;1.676,41;1.691,91;1.577,34;;;
+Eskualde Egitura/Áreas funcionales;Álava Central;1.276,28;1.279,24;1.264,79;;;
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;1.175,14;1.171,94; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;1.535,02;1.638,91;1.259,74;;;
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;1.693,70;1.703,44;1.632,27;;;
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;2.094,81;2.107,33;2.046,79;;;
+Eskualde Egitura/Áreas funcionales;Durango;1.576,34;1.578,93; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Eibar;1.661,27;1.621,48;1.779,53;;;
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;1.608,33;1.592,29;1.640,40;;;
+Eskualde Egitura/Áreas funcionales;Igorre;1.549,94; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laguardia;732,17;732,17; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;1.277,12;1.382,07;1.044,74;;;
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;1.553,77;1.435,46;1.653,15;;;
+Eskualde Egitura/Áreas funcionales;Mungia;1.733,65; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Tolosa;1.554,76;1.571,52; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;2.062,75;2.077,13;2.029,44;;;
+;;;;;;;
+;;;;;;;
+3.2.3.- Kontratatutako hipoteka-kredituko batez bestekoa transakzioka (€). 2018ko 1. hiruhilekoa;;;;;;;
+3.2.3.- Importe medio de crédito hipotecario contratado por transacción (€). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;BATEZBESTEKOA MEDIA;BANKUAK/KUTXAK BANCOS/CAJAS;BESTELAKOAK OTRAS;;;
+Nazionala/Nacional;ESPAÑA;121.122,95;122.854,55;104.745,77;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;137.205,44;138.074,38;133.435,16;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;101.749,65;102.738,86;92.446,75;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;100.898,71;104.037,91;81.294,68;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;91.948,27;92.939,50;89.363,13;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;160.067,49;157.055,21;218.535,43;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;94.298,05;93.259,39;104.989,38;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;104.876,95;104.489,83;111.589,54;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;90.249,99;91.227,23;83.411,98;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;87.932,21;88.683,56;83.386,17;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;142.344,57;143.522,83;127.684,66;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;74.495,15;74.595,30;73.275,89;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;92.101,37;92.970,93;73.492,77;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;187.248,01;187.392,85;182.371,08;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;78.916,34;80.337,96;70.421,92;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;107.895,79;107.238,79;109.035,83;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;86.008,48;86.396,36;83.867,93;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;87.736,74;88.341,74;82.188,66;;;
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;117.511,71;117.302,08;118.303,67;;;
+Hiriburak/Capitales de TTHH;Donostia-San Sebastián;206.643,20;207.136,14;204.664,08;;;
+Hiriburak/Capitales de TTHH;Bilbao;151.137,16;153.843,86;132.658,13;;;
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;114.187,14;116.662,42;102.360,79;;;
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;120.616,93;115.799,49;134.885,53;;;
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;133.036,00;135.648,29;119.521,77;;;
+Eskualde Egitura/Áreas funcionales;Álava Central;116.596,83;116.474,42;117.085,15;;;
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;94.549,56;94.739,12; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;116.399,66;117.896,44;112.058,99;;;
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;142.408,61;145.425,93;124.495,46;;;
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;149.835,19;147.027,32;159.709,57;;;
+Eskualde Egitura/Áreas funcionales;Durango;121.215,52;121.839,00;119.137,25;;;
+Eskualde Egitura/Áreas funcionales;Eibar;121.558,73;115.852,46;138.399,18;;;
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;123.910,11;125.456,79;120.172,31;;;
+Eskualde Egitura/Áreas funcionales;Igorre;92.449,26;89.842,47; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laguardia;135.909,91;135.909,91; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;114.215,80;118.155,10;104.613,77;;;
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;121.822,39;106.213,94;134.739,74;;;
+Eskualde Egitura/Áreas funcionales;Mungia;135.929,28; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Tolosa;139.358,05;140.230,11; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;153.731,23;155.555,37;150.580,46;;;
+;;;;;;;
+;;;;;;;
+3.3.- Interes-tipoak. Erreferentziar indizeak (%). 2018ko 1. hiruhilekoa;;;;;;;
+3.3.- Tipos de interés. Índices de referencia (%). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;Finkoa     Fijo;Aldagarria Variable;Euriborra Euribor;HMEI      IRPH;Bestelakoak Otros;
+Nazionala/Nacional;ESPAÑA;37,26;62,74;61,95;0,22;0,57;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;21,21;78,79;78,46;0,12;0,21;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;36,45;63,55;62,59;0,36;0,60;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;27,69;72,31;72,03;0,08;0,20;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;48,70;51,30;51,07;0,06;0,17;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;46,57;53,43;53,16;0,10;0,17;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;38,69;61,31;59,58;0,40;1,33;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;34,90;65,10;63,36;0,25;1,49;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;32,14;67,86;67,31;0,22;0,33;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;29,89;70,11;69,12;0,57;0,42;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;45,97;54,03;53,22;0,18;0,63;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;20,83;79,17;77,89;0,43;0,85;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;38,28;61,72;60,81;0,09;0,82;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;29,47;70,53;69,89;0,11;0,53;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;50,09;49,91;49,33;0,13;0,45;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;27,22;72,78;72,15;0,18;0,45;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;30,22;69,78;69,62;0,16; -     ;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;45,49;54,51;53,60;0,24;0,67;
+Lurraldea/TTHH;ARABA/ÁLAVA;16,70;83,30;83,30; -     ; -     ;
+Lurraldea/TTHH;GIPUZKOA;22,77;77,23;76,67;0,21;0,35;
+Lurraldea/TTHH;BIZKAIA;21,33;78,67;78,40;0,09;0,18;
+;;;;;;;
+;;;;;;;
+3.4.1.- Hipoteka-kredituen batez besteko iraupena (hilabetetan). Finantza-erakunde mota. 2018ko 1. hiruhilekoa;;;;;;;
+3.4.1.- Duración media de los nuevos créditos hipotecarios (meses). Tipo entidad. 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                         ÁMBITO;BATEZBESTEKOA MEDIA;BANKUAK/KUTXAK BANCOS/CAJAS;BESTELAKOAK OTRAS;;;
+Nazionala/Nacional;ESPAÑA;284,00;287,00;261,00;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;288,00;292,00;268,00;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;289,00;291,00;278,00;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;282,00;290,00;237,00;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;273,00;270,00;282,00;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;270,00;276,00;166,00;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;254,00;261,00;177,00;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;275,00;277,00;240,00;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;273,00;274,00;261,00;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;286,00;285,00;287,00;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;283,00;286,00;245,00;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;282,00;283,00;273,00;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;275,00;277,00;229,00;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;315,00;316,00;292,00;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;269,00;271,00;255,00;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;274,00;275,00;271,00;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;255,00;252,00;271,00;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;265,00;265,00;261,00;;;
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;294,00;292,00;299,00;;;
+Hiriburak/Capitales de TTHH;Donostia-San Sebastián;270,00;277,00;241,00;;;
+Hiriburak/Capitales de TTHH;Bilbao;293,00;293,00;292,00;;;
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;291,00;287,00;306,00;;;
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;277,00;280,00;266,00;;;
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;296,00;304,00;254,00;;;
+Eskualde Egitura/Áreas funcionales;Álava Central;293,00;292,00;297,00;;;
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;274,00;270,00; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;312,00;316,00;300,00;;;
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;298,00;301,00;283,00;;;
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;268,00;276,00;242,00;;;
+Eskualde Egitura/Áreas funcionales;Durango;262,00;311,00;98,00;;;
+Eskualde Egitura/Áreas funcionales;Eibar;308,00;306,00;315,00;;;
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;290,00;288,00;296,00;;;
+Eskualde Egitura/Áreas funcionales;Igorre;243,00;230,00; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laguardia;257,00;258,00; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;305,00;304,00;307,00;;;
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;290,00;258,00;317,00;;;
+Eskualde Egitura/Áreas funcionales;Mungia;330,00; n.d. ; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Tolosa;239,00;241,00; n.d. ;;;
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;273,00;298,00;230,00;;;
+;;;;;;;
+;;;;;;;
+3.4.2.- Hipoteka-kredituen batez besteko iraupena (hilabetetan). Higiezin mota.  2018ko 1. hiruhilekoa;;;;;;;
+3.4.2.- Duración media de los nuevos créditos hipotecarios (meses). Tipo bien inmueble. 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;BATEZBESTEKOA MEDIA;ETXEBIZITZAK VIVIENDAS;LOKALAK LOCALES;GARAJEAK/TRASTEROAK GARAJE/TRASTEROS;ORUBEAK SOLARES;NABEAK   NAVES
+Nazionala/Nacional;ESPAÑA;279,00;284,00;176,00;292,00;218,00;158,00
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;279,00;288,00;178,00;293,00;183,00;145,00
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;283,00;289,00;183,00;291,00;211,00;164,00
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;278,00;282,00;201,00;287,00;206,00;160,00
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;270,00;273,00;220,00;281,00; n.d. ; n.d. 
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;258,00;270,00;169,00;220,00;178,00;129,00
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;248,00;255,00;159,00;266,00;213,00;154,00
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;271,00;275,00;188,00;292,00;198,00;118,00
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;271,00;273,00;183,00;303,00;260,00;152,00
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;279,00;286,00;177,00;292,00;191,00;155,00
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;279,00;283,00;170,00;296,00;246,00;152,00
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;274,00;282,00;177,00;295,00;274,00;162,00
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;272,00;275,00;154,00;306,00;94,00;153,00
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;311,00;315,00;175,00;329,00;286,00;161,00
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;266,00;269,00;164,00;303,00;266,00;174,00
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;268,00;274,00;187,00;317,00;155,00;173,00
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;244,00;255,00;148,00;215,00;229,00; n.d. 
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;262,00;265,00;182,00;283,00;195,00;165,00
+Hiriburak/Capitales de TTHH;Vitoria-Gasteiz;286,00;294,00;171,00;306,00; n.d. ; n.d. 
+Hiriburak/Capitales de TTHH;Donostia-San Sebastián;275,00;270,00;196,00;329,00; n.d. ; n.d. 
+Hiriburak/Capitales de TTHH;Bilbao;273,00;293,00;167,00;222,00; n.d. ; n.d. 
+Lurralderen gainerakoa/Resto de TTHH;ARABA/ÁLAVA;291,00;291,00; n.d. ; n.d. ; n.d. ; n.d. 
+Lurralderen gainerakoa/Resto de TTHH;GIPUZKOA;268,00;277,00;176,00;312,00;152,00;129,00
+Lurralderen gainerakoa/Resto de TTHH;BIZKAIA;287,00;296,00;180,00;295,00;199,00;169,00
+Eskualde Egitura/Áreas funcionales;Álava Central;286,00;293,00;171,00;303,00; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Balmaseda-Zalla;277,00;274,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Beasain-Zumárraga;298,00;312,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Bilbao Metropolitano;285,00;298,00;173,00;275,00;134,00; n.d. 
+Eskualde Egitura/Áreas funcionales;Donostia-San Sebastián;267,00;268,00;182,00;321,00;273,00; n.d. 
+Eskualde Egitura/Áreas funcionales;Durango;259,00;262,00; n.d. ;327,00; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Eibar;295,00;308,00;197,00;313,00; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Gernika-Markina;293,00;290,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Igorre;213,00;243,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Laguardia;270,00;257,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Laudio / Llodio;301,00;305,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Arrasate-Bergara;286,00;290,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Mungia;313,00; n.d. ; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Tolosa;231,00;239,00; n.d. ; n.d. ; n.d. ; n.d. 
+Eskualde Egitura/Áreas funcionales;Zarautz-Azpeitia;265,00;273,00; n.d. ;340,00; n.d. ; n.d. 
+;;;;;;;
+;;;;;;;
+3.5.1.- Batez besteko hileroko hipoteka-kuota (€) eta  Soldata kostuarekiko ehunekoa. 2018ko 1. hiruhilekoa;;;;;;;
+3.5.1.- Cuota hipotecaria mensual media (€) y Porcentaje respecto al coste salarial. 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                           ÁMBITO;Hileko kuota Cuota mensual;Soldata-kostua Coste salarial;% soldataren gaineko kuota % cuota sobre salario;;;
+Nazionala/Nacional;ESPAÑA;551,06;1.900,10;29,00;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;592,31;2.205,58;26,86;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;457,36;1.686,72;27,12;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;456,57;1.801,22;25,35;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;427,50;1.950,94;21,91;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;764,68;1.804,34;42,38;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;475,25;1.595,97;29,78;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;476,24;1.805,05;26,38;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;416,54;1.697,21;24,54;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;395,78;1.702,14;23,25;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;666,97;2.011,37;33,16;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;334,55;1.535,96;21,78;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;437,56;1.687,42;25,93;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;771,92;2.271,98;33,98;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;381,56;1.688,29;22,60;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;489,80;2.046,16;23,94;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;416,77;1.756,71;23,72;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;425,56;1.709,77;24,89;;;
+;;;;;;;
+;;;;;;;
+3.5.2.- Interes-motak. Zenbatekoa (%). 2018ko 1. hiruhilekoa;;;;;;;
+3.5.2.- Tipos de interés. Importe (%). 01 trimestre 2018;;;;;;;
+;;;;;;;
+BANATZEA                                        DESGLOSE;EREMUA                                                    ÁMBITO;INTERESA     INTERES;;;;;
+Nazionala/Nacional;ESPAÑA;2,26;;;;;
+Euskadi/País Vasco;EUSKADI/PAIS VASCO;1,88;;;;;
+Erakunde Autonomoa/CCAA;ANDALUZIA/ANDALUCIA;2,27;;;;;
+Erakunde Autonomoa/CCAA;ARAGOI/ARAGON;2,16;;;;;
+Erakunde Autonomoa/CCAA;ASTURIAS/ASTURIAS;2,18;;;;;
+Erakunde Autonomoa/CCAA;BALEAR UHARTEAK/BALEARES;2,36;;;;;
+Erakunde Autonomoa/CCAA;KANARIAR UHARTEAK/CANARIAS;2,43;;;;;
+Erakunde Autonomoa/CCAA;KANTABRIA/CANTABRIA;2,01;;;;;
+Erakunde Autonomoa/CCAA;GAZTELA ETA LEON/CASTILLA Y LEON;2,11;;;;;
+Erakunde Autonomoa/CCAA;GAZTELA-MANTXA/CASTILLA-LA MANCHA;2,21;;;;;
+Erakunde Autonomoa/CCAA;KATALUNIA/CATALUÑA;2,51;;;;;
+Erakunde Autonomoa/CCAA;EXTREMADURA/EXTREMADURA;2,09;;;;;
+Erakunde Autonomoa/CCAA;GALIZIA/GALICIA;2,44;;;;;
+Erakunde Autonomoa/CCAA;MADRIL/MADRID;2,08;;;;;
+Erakunde Autonomoa/CCAA;MURTZIA/MURCIA;2,45;;;;;
+Erakunde Autonomoa/CCAA;NAFARROA/NAVARRA;1,98;;;;;
+Erakunde Autonomoa/CCAA;ERRIOXA/LA RIOJA;2,06;;;;;
+Erakunde Autonomoa/CCAA;VALENTZIA KOMUNITATEA/VALENCIA;2,37;;;;;
+Lurraldea/TTHH;ARABA/ÁLAVA;1,89;;;;;
+Lurraldea/TTHH;GIPUZKOA;1,88;;;;;
+Lurraldea/TTHH;BIZKAIA;1,88;;;;;
+;;;;;;;
+Iturria: Erregistratzaileetako eta Euskadiaren Jabetza-Erregistroetako Elkargoa.;;;;;;;
+Fuente:  Colegio de Registradores y Registros de la Propiedad del País Vasco.;;;;;;;
